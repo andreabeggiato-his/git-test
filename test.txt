@@ -1,3 +1,4 @@
-This is a test for git
-AB ASB ABAB BAB ABAB AB ABA BABABABABBABDDF SAD FDAS ERW
-This is a test for git
+- git add . / git add path-file -> add a file on local repository
+- git commit -m 'message' -> publish current version on local repository
+- git push origin master -> publish my repository to server repository
+- git pull origin master -> download changes from server repository into local repository
